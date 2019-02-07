@@ -46,6 +46,7 @@ public class Stopwatch{
 	public VBox getVBox() {
 		timerText = new Text("00:00:000");
 		timeline = new Timeline(new KeyFrame(Duration.millis(1), new EventHandler<ActionEvent>() {
+			@Override
 			public void handle(ActionEvent event) {
             	change(timerText);
 			}
@@ -54,6 +55,7 @@ public class Stopwatch{
 		timeline.setAutoReverse(false);
 		sButton = new Button("Start");
 		sButton.setOnAction(new EventHandler<ActionEvent>() {
+            @Override
             public void handle(ActionEvent event) {
             	if(sos) {
             		timeline.play();
@@ -68,6 +70,7 @@ public class Stopwatch{
         });
 		rButton = new Button("Reset");
 		rButton.setOnAction(new EventHandler<ActionEvent>() {
+            @Override
             public void handle(ActionEvent event) {
             	mins = 0;
             	secs = 0;

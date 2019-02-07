@@ -8,3 +8,136 @@
 2019-02-07 16:42:43,957 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\main\resources
 2019-02-07 16:42:43,959 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2019-02-07 16:42:43,959 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\test\resources
+2019-02-07 16:46:38,253 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-07 16:46:38,254 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\main\resources
+2019-02-07 16:46:38,255 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-07 16:46:38,255 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\test\resources
+2019-02-07 16:46:39,316 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-07 16:46:39,316 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\main\resources
+2019-02-07 16:46:39,317 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-07 16:46:39,317 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\test\resources
+2019-02-07 16:46:40,325 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-07 16:46:40,325 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\main\resources
+2019-02-07 16:46:40,326 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-07 16:46:40,327 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\test\resources
+2019-02-07 16:47:54,378 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-07 16:47:54,378 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\main\resources
+2019-02-07 16:47:54,379 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-07 16:47:54,380 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\test\resources
+2019-02-07 16:48:48,684 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-07 16:48:48,685 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\main\resources
+2019-02-07 16:48:48,686 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-07 16:48:48,686 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\test\resources
+2019-02-07 16:51:18,074 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-07 16:51:18,075 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\main\resources
+2019-02-07 16:51:18,076 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-07 16:51:18,076 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\test\resources
+2019-02-07 16:52:28,347 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-07 16:52:28,348 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\main\resources
+2019-02-07 16:52:28,351 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-07 16:52:28,351 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\test\resources
+2019-02-07 16:52:53,567 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-07 16:52:53,568 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\main\resources
+2019-02-07 16:52:53,569 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-07 16:52:53,569 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\test\resources
+2019-02-07 16:54:34,713 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-07 16:54:34,714 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\main\resources
+2019-02-07 16:54:34,715 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-07 16:54:34,715 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\test\resources
+2019-02-07 16:54:51,772 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-07 16:54:51,772 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\main\resources
+2019-02-07 16:54:51,773 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-07 16:54:51,773 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\test\resources
+2019-02-07 16:54:57,954 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-07 16:54:57,954 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\main\resources
+2019-02-07 16:54:57,955 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-07 16:54:57,956 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\test\resources
+2019-02-07 16:56:37,041 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-07 16:56:37,042 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\main\resources
+2019-02-07 16:56:37,042 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-07 16:56:37,043 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\test\resources
+2019-02-07 16:57:06,608 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-07 16:57:06,608 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\main\resources
+2019-02-07 16:57:06,611 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-07 16:57:06,611 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\test\resources
+2019-02-07 16:57:21,994 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-07 16:57:21,994 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\main\resources
+2019-02-07 16:57:21,995 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-07 16:57:21,995 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\test\resources
+2019-02-07 16:58:23,547 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-07 16:58:23,547 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\main\resources
+2019-02-07 16:58:23,549 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-07 16:58:23,550 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\test\resources
+2019-02-07 16:58:46,612 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-07 16:58:46,612 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\main\resources
+2019-02-07 16:58:46,612 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-07 16:58:46,612 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\test\resources
+2019-02-07 16:59:32,884 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-07 16:59:32,884 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\main\resources
+2019-02-07 16:59:32,885 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-07 16:59:32,885 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\test\resources
+2019-02-07 16:59:37,201 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-07 16:59:37,201 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\main\resources
+2019-02-07 16:59:37,202 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-07 16:59:37,202 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\test\resources
+2019-02-07 16:59:50,546 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-07 16:59:50,546 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\main\resources
+2019-02-07 16:59:50,547 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-07 16:59:50,547 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\test\resources
+2019-02-07 17:00:01,103 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-07 17:00:01,103 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\main\resources
+2019-02-07 17:00:01,104 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-07 17:00:01,104 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\test\resources
+2019-02-07 17:00:36,811 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-07 17:00:36,812 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\main\resources
+2019-02-07 17:00:36,812 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-07 17:00:36,813 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\test\resources
+2019-02-07 17:00:49,582 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-07 17:00:49,582 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\main\resources
+2019-02-07 17:00:49,583 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-07 17:00:49,583 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\test\resources
+2019-02-07 17:02:23,381 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-07 17:02:23,381 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\main\resources
+2019-02-07 17:02:23,382 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-07 17:02:23,383 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\test\resources
+2019-02-07 17:02:28,022 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-07 17:02:28,023 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\main\resources
+2019-02-07 17:02:28,024 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-07 17:02:28,024 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\test\resources
+2019-02-07 17:02:34,306 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-07 17:02:34,306 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\main\resources
+2019-02-07 17:02:34,307 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-07 17:02:34,307 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\test\resources
+2019-02-07 17:02:35,352 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-07 17:02:35,352 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\main\resources
+2019-02-07 17:02:35,357 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-07 17:02:35,357 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\test\resources
+2019-02-07 17:06:40,225 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-07 17:06:40,226 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\main\resources
+2019-02-07 17:06:40,227 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-07 17:06:40,228 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\test\resources
+2019-02-07 17:06:48,040 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-07 17:06:48,041 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\main\resources
+2019-02-07 17:06:48,041 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-07 17:06:48,042 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\test\resources
+2019-02-07 17:20:55,754 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-07 17:20:55,754 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\main\resources
+2019-02-07 17:20:55,755 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-07 17:20:55,755 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\test\resources
+2019-02-07 17:24:46,280 [Worker-20: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-07 17:24:46,281 [Worker-20: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\main\resources
+2019-02-07 17:24:46,282 [Worker-20: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-07 17:24:46,282 [Worker-20: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\test\resources
+2019-02-07 17:26:12,078 [Worker-16: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-07 17:26:12,078 [Worker-16: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\main\resources
+2019-02-07 17:26:12,079 [Worker-16: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-07 17:26:12,079 [Worker-16: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\test\resources
+2019-02-07 17:28:28,026 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-07 17:28:28,026 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\main\resources
+2019-02-07 17:28:28,027 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-07 17:28:28,027 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\test\resources
+2019-02-07 17:29:12,438 [Worker-4: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-02-07 17:29:19,091 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-07 17:29:19,092 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\main\resources
+2019-02-07 17:29:19,095 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-07 17:29:19,095 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\test\resources
