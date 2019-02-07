@@ -1,0 +1,10 @@
+2019-02-07 16:40:52,830 [Worker-7: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-02-07 16:42:40,892 [Worker-3: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\pom.xml
+2019-02-07 16:42:41,663 [Worker-3: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Ajanhallinta_OTProjekti:Ajanhallinta_OTProjekti:0.0.1-SNAPSHOT @ D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\pom.xml.
+2019-02-07 16:42:42,059 [Worker-3: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Ajanhallinta_OTProjekti/src/main/java
+2019-02-07 16:42:42,066 [Worker-3: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Ajanhallinta_OTProjekti/src/test/java
+2019-02-07 16:42:42,688 [Worker-3: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2019-02-07 16:42:43,956 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-07 16:42:43,957 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\main\resources
+2019-02-07 16:42:43,959 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-07 16:42:43,959 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\test\resources
