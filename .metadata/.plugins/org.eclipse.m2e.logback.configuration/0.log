@@ -141,3 +141,15 @@
 2019-02-07 17:29:19,092 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\main\resources
 2019-02-07 17:29:19,095 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2019-02-07 17:29:19,095 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\test\resources
+2019-02-07 17:39:45,207 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-07 17:39:45,207 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\main\resources
+2019-02-07 17:39:45,210 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-07 17:39:45,211 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\test\resources
+2019-02-07 17:49:32,122 [Worker-15: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Ajanhallinta_OTProjekti:Ajanhallinta_OTProjekti:0.0.1-SNAPSHOT @ D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\pom.xml.
+2019-02-07 17:49:32,501 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-07 17:49:32,501 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\main\resources
+2019-02-07 17:49:32,503 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-07 17:49:32,503 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti\src\test\resources
+2019-02-07 18:02:37,193 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-02-07 18:02:41,139 [Worker-22: Launching Ajanhallinta_OTProjekti] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\GitHub\Ajanhallinta_OTProjekti\Ajanhallinta_OTProjekti
+2019-02-07 18:02:41,140 [Worker-22: Launching Ajanhallinta_OTProjekti] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B 
